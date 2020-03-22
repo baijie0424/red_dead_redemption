@@ -3,3 +3,4 @@ age=28
 gender=man
 job=programmer
 national=china
+phone=123456
