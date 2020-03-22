@@ -3,5 +3,5 @@ age=28
 gender=man
 job=programmer
 national=china
-phone=123456	eidt by master
+phone=123456	edit by hot_fix
 address=beijing
