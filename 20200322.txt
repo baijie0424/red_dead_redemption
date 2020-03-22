@@ -1,0 +1,4 @@
+user=bj
+age=28
+gender=man
+job=programmer
